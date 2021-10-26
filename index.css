@@ -1,0 +1,14 @@
+/* default font to one chosen by Felix */
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: #2e9599;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ef0f99;
+}
